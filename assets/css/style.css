@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* This determines the background color of the page */
 body {
     background-color: #d9dcd6;
 }
 
+/* This determines the size, font, color of the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,16 +43,17 @@ header nav ul li {
     margin-left: 25px;
     float: left;
 }
-
+/* This determines color of the text in the header */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* This deterines the font size of the text in the header */
 p {
     font-size: 16px;
 }
 
+/* This determines the size and placement of the main image on the website */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,6 +73,7 @@ p {
     margin-left: 25px;
 }
 
+/* This determines the size and placement of the main components of the website */
 main {
     width: 75%;
     display: inline-block;
@@ -82,6 +86,7 @@ content {
     margin-left: 20px;
 }
 
+/* This determines the size, position, color, and font of the side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,7 +116,7 @@ content {
     max-width: 150px;
 }
 
-
+/* This determines the size, position, color, and font of main section */
 .function {
     margin-bottom: 20px;
     padding: 50px;
@@ -132,7 +137,7 @@ content {
     font-size: 36px;
 }
 
-
+/* This determines the size, font, and positioning of the footer */
 footer {
     padding: 30px;
     clear: both;
